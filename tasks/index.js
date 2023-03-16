@@ -1,0 +1,5 @@
+exports.createProposal = require("./kangaroo/create-proposal")
+exports.voteProposalk = require("./kangaroo/vote-proposal")
+exports.endVoting = require("./kangaroo/end-voting")
+exports.submitDealId = require("./kangaroo/submit-dealid")
+exports.createKangaroo = require("./kangaroo/deploy-dao")
